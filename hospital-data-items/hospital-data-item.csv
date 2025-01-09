@@ -1,0 +1,247 @@
+﻿Label Key,Category,Subcategory,Data Item
+FAC_NO,Hospital Information,Disclosure Report Information,HCAI Facility Number
+FAC_NAME,Hospital Information,Disclosure Report Information,Facility DBA Name
+BEG_DATE,Hospital Information,Disclosure Report Information,Report Period Begin Date
+END_DATE,Hospital Information,Disclosure Report Information,Report Period End Date
+DAY_PER,Hospital Information,Disclosure Report Information,Days in Report Period
+DATA_IND,Hospital Information,Disclosure Report Information,Data Status Indicator
+AUDIT_IND,Hospital Information,Disclosure Report Information,Independent Audit Indicator
+COUNTY,Hospital Information,General Hospital Information,County Name
+HSA,Hospital Information,General Hospital Information,Health Service Area (HSA) Number
+HFPA,Hospital Information,General Hospital Information,Health Facility Planning Area (HFPA) Number
+TYPE_CNTRL,Hospital Information,General Hospital Information,Type of Control
+TYPE_CARE,Hospital Information,General Hospital Information,Type of Care
+TYPE_HOSP,Hospital Information,General Hospital Information,Type of Hospital
+TEACH_RURL,Hospital Information,General Hospital Information,Teaching or Small/Rural Hospital
+PHONE,Hospital Information,General Hospital Information,Phone Number
+ADDRESS,Hospital Information,General Hospital Information,Address
+CITY,Hospital Information,General Hospital Information,City
+ZIP_CODE,Hospital Information,General Hospital Information,Zip Code
+CEO,Hospital Information,General Hospital Information,Chief Executive Officer
+CEO_TITLE,Hospital Information,General Hospital Information,CEO Title
+WEB_SITE,Hospital Information,General Hospital Information,Hospital Web-site Address
+OWNER,Hospital Information,General Hospital Information,Hospital Owner
+RPT_PREP,Hospital Information,General Hospital Information,Report Preparer
+ORG_NAME,Hospital Information,General Hospital Information,Report Preparer Organization Name
+ER_DESIG,Hospital Information,General Hospital Information,ER Trauma Center Designation
+MCAR_PRO#,Hospital Information,General Hospital Information,Medicare Provider Number
+MCAL_PRO#,Hospital Information,General Hospital Information,Medi-Cal Contract Provider Number
+REG_MCAL#,Hospital Information,General Hospital Information,Medi-Cal Non-Contract Provider Number
+BED_LIC,Performance Metrics,Beds (Excluding Beds in Suspense and Nursery Bassinets),Licensed Beds (End of Period)
+BED_AVL,Performance Metrics,Beds (Excluding Beds in Suspense and Nursery Bassinets),Available Beds (Average)
+BED_STF,Performance Metrics,Beds (Excluding Beds in Suspense and Nursery Bassinets),Staffed Beds (Average)
+DAY_MCAR_TR,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Medicare-Traditional
+DAY_MCAR_MC,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Medicare-Managed Care
+DAY_MCAL_TR,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Medi-Cal-Traditional
+DAY_MCAL_MC,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Medi-Cal-Managed Care
+DAY_CNTY,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days County Indigent Programs-Traditional & Man. Care
+DAY_THRD_TR,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Other Third Parties-Traditional
+DAY_THRD_MC,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Other Third Parties-Managed Care
+DAY_OTH_IND,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Other Indigent
+DAY_OTH,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Other Payers
+DAY_TOT,Performance Metrics,Patient (Census) Days by Payer Category,Patient (Census) Days Total
+DIS_MCAR_TR,Performance Metrics,Discharges by Payer Category,Discharges Medicare-Traditional
+DIS_MCAR_MC,Performance Metrics,Discharges by Payer Category,Discharges Medicare-Managed Care
+DIS_MCAL_TR,Performance Metrics,Discharges by Payer Category,Discharges Medi-Cal-Traditional
+DIS_MCAL_MC,Performance Metrics,Discharges by Payer Category,Discharges Medi-Cal-Managed Care
+DIS_CNTY,Performance Metrics,Discharges by Payer Category,Discharges County Indigent Programs-Traditional & Managed Care
+DIS_THRD_TR,Performance Metrics,Discharges by Payer Category,Discharges Other Third Parties-Traditional
+DIS_THRD_MC,Performance Metrics,Discharges by Payer Category,Discharges Other Third Parties-Managed Care
+DIS_OTH_IND,Performance Metrics,Discharges by Payer Category,Discharges Other Indigent
+DIS_OTH,Performance Metrics,Discharges by Payer Category,Discharges Other Payers
+DIS_TOT,Performance Metrics,Discharges by Payer Category,Discharges Total
+BED_ACUTE,Performance Metrics,Licensed Beds by Type of Care,Licensed Beds Acute Care
+BED_PSYCH,Performance Metrics,Licensed Beds by Type of Care,Licensed Beds Psychiatric Care
+BED_CHEM,Performance Metrics,Licensed Beds by Type of Care,Licensed Beds Chemical Dependency Care
+BED_REHAB,Performance Metrics,Licensed Beds by Type of Care,Licensed Beds Rehabilitation Care
+BED_LTC,Performance Metrics,Licensed Beds by Type of Care,Licensed Beds Long-term Care
+BED_RESDNT,Performance Metrics,Licensed Beds by Type of Care,Licensed Beds Residential & Other Daily Services
+DAY-ACUTE,Performance Metrics,Patient (Census) Days by Type of Care,Patient (Census) Days Acute Care
+DAY_PSYCH,Performance Metrics,Patient (Census) Days by Type of Care,Patient (Census) Days Psychiatric Care
+DAY_CHEM,Performance Metrics,Patient (Census) Days by Type of Care,Patient (Census) Days Chemical Dependency Care
+DAY_REHAB,Performance Metrics,Patient (Census) Days by Type of Care,Patient (Census) Days Rehabilitation Care
+DAY_LTC,Performance Metrics,Patient (Census) Days by Type of Care,Patient (Census) Days Long-term Care
+DAY_RESDNT,Performance Metrics,Patient (Census) Days by Type of Care,Patient (Census) Days Residential & Other Daily Services
+DIS_ACUTE,Performance Metrics,Discharges by Type of Care,Discharges Acute Care
+DIS_PSYCH,Performance Metrics,Discharges by Type of Care,Discharges Psychiatric Care
+DIS_CHEM,Performance Metrics,Discharges by Type of Care,Discharges Chemical Dependency Care
+DIS_REHAB,Performance Metrics,Discharges by Type of Care,Discharges Rehabilitation Care
+DIS_LTC,Performance Metrics,Discharges by Type of Care,Discharges Long-term Care
+DIS_RESDNT,Performance Metrics,Discharges by Type of Care,Discharges Residential & Other Daily Services
+OCC_LIC,Performance Metrics,Occupancy Rate and Average Length of Stay (Approximate),Licensed Beds Occupancy Rate
+OCC_AVL,Performance Metrics,Occupancy Rate and Average Length of Stay (Approximate),Available Beds Occupancy Rate
+ALOS_ALL,Performance Metrics,Occupancy Rate and Average Length of Stay (Approximate),Average Length of Stay (Including LTC)
+ALOS_EXLTC,Performance Metrics,Occupancy Rate and Average Length of Stay (Approximate),Average Length of Stay (Excluding LTC)
+BAS_NURSRY,Performance Metrics,Nursery Information,Nursery Bassinets
+DAY_NURSRY,Performance Metrics,Nursery Information,Nursery Days
+DIS_NURSRY,Performance Metrics,Nursery Information,Nursery Discharges
+VIS_MCAR_TR,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Medicare-Traditional
+VIS_MCAR_MC,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Medicare-Managed Care
+VIS_MCAL_TR,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Medi-Cal-Traditional
+VIS_MCAL_MC,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Medi-Cal-Managed Care
+VIS_CNTY,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits County Indigent Programs-Traditional & Man. Care
+VIS_THRD_TR,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Other Third Parties-Traditional
+VIS_THRD_MC,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Other Third Parties-Managed Care
+VIS_OTH_IND,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Other Indigent
+VIS_OTH,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Other Payers
+VIS_TOT,Performance Metrics,Outpatient Visits by Payer Category,Outpatient Visits Total
+VIS_ER,Performance Metrics,Ambulatory and Referred Outpatient Visits,Visits Emergency Room
+VIS_CLIN,Performance Metrics,Ambulatory and Referred Outpatient Visits,Visits Clinic
+VIS_HOME,Performance Metrics,Ambulatory and Referred Outpatient Visits,Visits Home Health Care
+VIS_REF_OP,Performance Metrics,Ambulatory and Referred Outpatient Visits,Visits Referred Outpatient
+DAY_PIPS,Performance Metrics,Managed Care Contract Information,Purchased Inpatient Days
+OP_ROOM,Performance Metrics,Surgery and Selected Ancillary Information,Operating Rooms
+OP_MIN_IP,Performance Metrics,Surgery and Selected Ancillary Information,Operating Minutes Inpatient
+OP_MIN_OP,Performance Metrics,Surgery and Selected Ancillary Information,Operating Minutes Outpatient
+SURG_IP,Performance Metrics,Surgery and Selected Ancillary Information,Surgeries Inpatient
+SURG_OP,Performance Metrics,Surgery and Selected Ancillary Information,Surgeries Outpatient
+NAT_BIRTHS,Performance Metrics,Surgery and Selected Ancillary Information,Natural Births
+C_SECTIONS,Performance Metrics,Surgery and Selected Ancillary Information,Cesarean Sections
+GR_PT_REV,Income Statement,Income Statement,Gross Patient Revenue
+DED_FR_REV,Income Statement,Income Statement,Deductions from Revenue
+TOT_CAP_REV,Income Statement,Income Statement,Capitation Premium Revenue
+NET_PT_REV,Income Statement,Income Statement,Net Patient Revenue
+OTH_OP_REV,Income Statement,Income Statement,Other Operating Revenue
+TOT_OP_EXP,Income Statement,Income Statement,Total Operating Expenses
+NET_FRM_OP,Income Statement,Income Statement,Net from Operations
+NONOP_REV,Income Statement,Income Statement,Non-Operating Revenue
+NONOP_EXP,Income Statement,Income Statement,Non-Operating Expenses
+INC_TAX,Income Statement,Income Statement,Provision for Income Taxes
+EXT_ITEM,Income Statement,Income Statement,Extraordinary Items
+NET_INCOME,Income Statement,Income Statement,Net Income
+GR_REV_DLY,Revenue,Gross Patient Revenue by Revenue Center Group,Gross Patient Revenue Daily Hospital Services
+GR_REV_AMB,Revenue,Gross Patient Revenue by Revenue Center Group,Gross Patient Revenue Ambulatory Services
+GR_REV_ANC,Revenue,Gross Patient Revenue by Revenue Center Group,Gross Patient Revenue Ancillary Services
+GR_IP_MCAR_TR,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Medicare-Traditional
+GR_IP_MCAR_MC,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Medicare-Managed Care
+GR_IP_MCAL_TR,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Medi-Cal-Traditional
+GR_IP_MCAL_MC,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Medi-Cal-Managed Care
+GR_IP_CNTY,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue County Indigent Programs-Traditional & Man. Care
+GR_IP_THRD_TR,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Other Third Parties-Traditional
+GR_IP_THRD_MC,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Other Third Parties-Managed Care
+GR_IP_OTH_IND,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Other Indigent
+GR_IP_OTH,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Other Payers
+GR_IP_TOT,Revenue,Gross Inpatient Revenue by Payer Category,Gross Inpatient Revenue Total
+GR_OP_MCAR_TR,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Medicare-Traditional
+GR_OP_MCAR_MC,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Medicare-Managed Care
+GR_OP_MCAL_TR,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Medi-Cal-Traditional
+GR_OP_MCAL_MC,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Medi-Cal-Managed Care
+GR_OP_CNTY,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue County Indigent Programs-Traditional & Man.Care
+GR_OP_THRD_TR,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Other Third Parties-Traditional
+GR_OP_THRD_MC,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Other Third Parties-Managed Care
+GR_OP_OTH_IND,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Other Indigent
+GR_OP_OTH,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Other Payers
+GR_OP_TOT,Revenue,Gross Outpatient Revenue by Payer Category,Gross Outpatient Revenue Total
+C_ADJ_MCAR_TR,Revenue,Deductions from Revenue,Contractual Adjustments Medicare-Traditional
+C_ADJ_MCAR_MC,Revenue,Deductions from Revenue,Contractual Adjustments Medicare-Managed Care
+C_ADJ_MCAL_TR,Revenue,Deductions from Revenue,Contractual Adjustments Medi-Cal-Traditional
+C_ADJ_MCAL_MC,Revenue,Deductions from Revenue,Contractual Adjustments Medi-Cal-Managed Care
+DISP_855,Revenue,Deductions from Revenue,Dispro Share Payments for Medi-Cal Patient Days (SB 855)
+C_ADJ_CNTY,Revenue,Deductions from Revenue,Contractual Adjustments County Indigent Programs-Traditional & Man. Care
+C_ADJ_THRD_TR,Revenue,Deductions from Revenue,Contractual Adjustments Other Third Parties-Traditional
+C_ADJ_THRD_MC,Revenue,Deductions from Revenue,Contractual Adjustments Other Third Parties-Managed Care
+BAD_DEBT,Revenue,Deductions from Revenue,Provision for Bad Debts
+CHAR_HB,Revenue,Deductions from Revenue,Charity - Hill-Burton
+CHAR_OTH,Revenue,Deductions from Revenue,Charity - Other
+SUB_INDGNT,Revenue,Deductions from Revenue,Restricted Donations and Subsidies for Indigent Care
+DED_OTH,Revenue,Deductions from Revenue,All Other Deductions from Revenue
+CAP_REV_MCAR,Revenue,Capitation Premium Revenue by Payer Category,Capitation Premium Revenue-Medicare-Managed Care
+CAP_REV_MCAL,Revenue,Capitation Premium Revenue by Payer Category,Capitation Premium Revenue-Medi-Cal-Managed Care
+CAP_REV_CNTY,Revenue,Capitation Premium Revenue by Payer Category,Capitation Premium Revenue-County Indigent Programs-Managed Care
+CAP_REV_THRD,Revenue,Capitation Premium Revenue by Payer Category,Capitation Premium Revenue-Other Third Parties-Managed Care
+NETRV_MCAR_TR,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Medicare-Traditional
+NETRV_MCAR_MC,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Medicare-Managed Care
+NETRV_MCAL_TR,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Medi-Cal-Traditional
+NETRV_MCAL_MC,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Medi-Cal-Managed Care
+NETRV_CNTY,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue County Indigent Programs-Traditional & Man. Care
+NETRV_THRD_TR,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Other Third Parties-Traditional
+NETRV_THRD_MC,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Other Third Parties-Managed Care
+NETRV_OTH_IND,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Other Indigent
+NETRV_OTH,Revenue,Net Patient Revenue by Payer Category,Net Patient Revenue Other Payers
+DISP_TRNFR,Other Non-Operating Income,Financial Items - Other,Dispro Share Funds Transferred to Related Entity
+INTER_TFR,Other Non-Operating Income,Financial Items - Other,Intercompany Transfers
+CONTRIBTNS,Other Non-Operating Income,Financial Items - Other,Unrestricted Contributions
+INC_INVEST,Other Non-Operating Income,Financial Items - Other,"Incomes, Gains & Losses from Unrestricted Investments"
+DIST_REV,Other Non-Operating Income,Financial Items - Other,District Assessment Revenue
+CNTY_APPRO,Other Non-Operating Income,Financial Items - Other,County Appropriations
+EXP_DLY,Operating Expenses,Operating Expenses by Cost Center Group,Daily Hospital Services
+EXP_AMB,Operating Expenses,Operating Expenses by Cost Center Group,Ambulatory Services
+EXP_ANC,Operating Expenses,Operating Expenses by Cost Center Group,Ancillary Services
+EXP_PIP,Operating Expenses,Operating Expenses by Cost Center Group,Purchased Inpatient Services
+EXP_POP,Operating Expenses,Operating Expenses by Cost Center Group,Purchased Outpatient Services
+EXP_RES,Operating Expenses,Operating Expenses by Cost Center Group,Research
+EXP_ED,Operating Expenses,Operating Expenses by Cost Center Group,Education
+EXP_GEN,Operating Expenses,Operating Expenses by Cost Center Group,General Services
+EXP_FISC,Operating Expenses,Operating Expenses by Cost Center Group,Fiscal Services
+EXP_ADM,Operating Expenses,Operating Expenses by Cost Center Group,Administrative Services
+EXP_UNASSG,Operating Expenses,Operating Expenses by Cost Center Group,Unassigned Costs
+EXP_SAL,Operating Expenses,Operating Expenses by Natural Classification,Salaries and Wages
+EXP_BEN,Operating Expenses,Operating Expenses by Natural Classification,Employee Benefits
+EXP_PHYS,Operating Expenses,Operating Expenses by Natural Classification,Physician Professional Fees
+EXP_OTHPRO,Operating Expenses,Operating Expenses by Natural Classification,Other Professional Fees
+EXP_SUPP,Operating Expenses,Operating Expenses by Natural Classification,Supplies
+EXP_PURCH,Operating Expenses,Operating Expenses by Natural Classification,Purchased Services
+EXP_DEPRE,Operating Expenses,Operating Expenses by Natural Classification,Depreciation
+EXP_LEASES,Operating Expenses,Operating Expenses by Natural Classification,Leases and Rentals
+EXP_INSUR,Operating Expenses,Operating Expenses by Natural Classification,Insurance - Hospital & Professional Malpractice
+EXP_INTRST,Operating Expenses,Operating Expenses by Natural Classification,Interest - Working Capital & Other
+EXP_OTH,Operating Expenses,Operating Expenses by Natural Classification,All Other Expenses
+CUR_ASST,Balance Sheet,Balance Sheet - Assets,Current Assets
+ASST_LIMTD,Balance Sheet,Balance Sheet - Assets,Assets Whose Use Is Limited
+NET_PPE,Balance Sheet,Balance Sheet - Assets,"Net Property, Plant, and Equipment"
+CONST_PROG,Balance Sheet,Balance Sheet - Assets,Construction-in-Progress
+INV_OTH,Balance Sheet,Balance Sheet - Assets,Investments and Other Assets
+INTAN_ASST,Balance Sheet,Balance Sheet - Assets,Intangible Assets
+TOT_ASST,Balance Sheet,Balance Sheet - Assets,Total Assets
+CUR_LIAB,Balance Sheet,Balance Sheet - Liabilities and Equity,Current Liabilities
+DEF_CRED,Balance Sheet,Balance Sheet - Liabilities and Equity,Deferred Credits
+NET_LTDEBT,Balance Sheet,Balance Sheet - Liabilities and Equity,Net Long-term Debt
+EQUITY,Balance Sheet,Balance Sheet - Liabilities and Equity,Equity
+LIAB_EQ,Balance Sheet,Balance Sheet - Liabilities and Equity,Total Liabilities and Equity
+CASH,Balance Sheet,Balance Sheet - Other Items,Cash
+ACCTS_REC,Balance Sheet,Balance Sheet - Other Items,Accounts and Notes Receivable
+ALLOW_UNCOLL,Balance Sheet,Balance Sheet - Other Items,Allowance for Uncollectibles
+BLDGS,Balance Sheet,Balance Sheet - Other Items,Buildings and Improvements
+EQUIPMENT,Balance Sheet,Balance Sheet - Other Items,Equipment
+TOT_PPE,Balance Sheet,Balance Sheet - Other Items,"Total Property, Plant and Equipment"
+ACC_DEPRE,Balance Sheet,Balance Sheet - Other Items,Accumulated Depreciation
+MORT_PAY,Balance Sheet,Balance Sheet - Other Items,Mortgages Payable
+CAP_LEASE,Balance Sheet,Balance Sheet - Other Items,Capitalized Lease Obligations
+BOND_PAY,Balance Sheet,Balance Sheet - Other Items,Bonds Payable
+TOT_LTDEBT,Balance Sheet,Balance Sheet - Other Items,Total Long-term Debt
+CUR_MAT,Balance Sheet,Balance Sheet - Other Items,Current Maturities on Long-term Debt
+INTER_REC,Balance Sheet,Balance Sheet - Other Items,Intercompany Receivables
+INTER_PAY,Balance Sheet,Balance Sheet - Other Items,Intercompany Payables
+HOSP_FTE,Labor,Labor Information,Number of Hospital Paid FTEs
+NURS_EMP,Labor,Labor Information,Average Number of Nursing Personnel
+PROD_HRS,Labor,Labor Information,Total Productive Hours
+NON_PRD_HR,Labor,Labor Information,Total Non-Productive Hours
+PAID_HRS,Labor,Labor Information,Total Paid Hours
+MED_STAFF,Labor,Labor Information,Number of Active Medical Staff
+STDNT_FTE,Labor,Labor Information,Number of Student FTEs
+PRD_HR_MGT,Labor,Productive Hours by Employee Classification,Management and Supervision
+PRD_HR_TCH,Labor,Productive Hours by Employee Classification,Technical and Specialist
+PRD_HR_RN,Labor,Productive Hours by Employee Classification,Registered Nurses
+PRD_HR_LVN,Labor,Productive Hours by Employee Classification,Licensed Vocational Nurses
+PRD_HR_AID,Labor,Productive Hours by Employee Classification,Aides and Orderlies
+PRD_HR_CLR,Labor,Productive Hours by Employee Classification,Clerical and Other Administrative
+PRD_HR_ENV,Labor,Productive Hours by Employee Classification,Environmental and Food Services
+PRD_HR_OTH,Labor,Productive Hours by Employee Classification,All Other Employee Classifications
+CNT_HR_RN,Labor,Contracted Labor Hours by Classification,Registry Nurses
+CNT_HR_OTH,Labor,Contracted Labor Hours by Classification,Other Contracted Services
+PRD_HR_DLY,Labor,Paid Hours by Cost Center Group,Daily Hospital Services
+PRD_HR_AMB,Labor,Paid Hours by Cost Center Group,Ambulatory Services
+PRD_HR_ANC,Labor,Paid Hours by Cost Center Group,Ancillary Services
+PRD_HR_ED,Labor,Paid Hours by Cost Center Group,Research and Education
+PRD_HR_GEN,Labor,Paid Hours by Cost Center Group,General Services
+PRD_HR_FIS,Labor,Paid Hours by Cost Center Group,Fiscal Services
+PRD_HR_ADM,Labor,Paid Hours by Cost Center Group,Administrative Services
+PRD_HR_NON,Labor,Paid Hours by Cost Center Group,Non-Operating Cost Centers
+PD_HR_DLY,Labor,Productive Hours by Cost Center Group,Daily Hospital Services
+PD_HR_AMB,Labor,Productive Hours by Cost Center Group,Ambulatory Services
+PD_HR_ANC,Labor,Productive Hours by Cost Center Group,Ancillary Services
+PD_HR_ED,Labor,Productive Hours by Cost Center Group,Research and Education
+PD_HR_GEN,Labor,Productive Hours by Cost Center Group,General Services
+PD_HR_FIS,Labor,Productive Hours by Cost Center Group,Fiscal Services
+PD_HR_ADM,Labor,Productive Hours by Cost Center Group,Administrative Services
+PD_HR_NON,Labor,Productive Hours by Cost Center Group,Non-Operating Cost Centers
